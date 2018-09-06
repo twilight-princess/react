@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <header id="item1" className="App-header">
-          <img src={process.env.PUBLIC_URL + './pink.jpeg'} className="App-logo" alt="logo" />
+          <img src={process.env.PUBLIC_URL + '/pink.jpeg'} className="App-logo" alt="logo" />
           <h1 className="App-title">Darlene Welch</h1>
         </header>
         <div id="item2" className="App-intro">
